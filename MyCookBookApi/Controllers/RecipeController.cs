@@ -49,6 +49,22 @@ namespace MyCookBookApi.Controllers
             return Ok(recipes);
         }
 
+        [HttpPut("{id}")]
+        public IActionResult UpdateRecipe(string id, [FromBody] Recipe recipe) 
+        {
+            if (recipe == null || string.IsNullOrWhiteSpace(recipe.Name)) 
+            {
+                return BadRequest("Invalid recipe data.");
+            }
+
+            var updated = _recipeService.UpdateRecipe(id, recipe);
+            if (!updated) 
+            {
+                return NotFound(); // Recipe doesn't exist
+            }
+            return NoContent(); // Successfully updated
+        }
+
         [HttpPost]
         public ActionResult<Recipe> CreateRecipe([FromBody] Recipe recipe)
         {

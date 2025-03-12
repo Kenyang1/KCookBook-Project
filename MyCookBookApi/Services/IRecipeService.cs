@@ -10,6 +10,7 @@ namespace MyCookBookApi.Services
         List<Recipe> SearchRecipes(RecipeSearchRequest searchRequest);
         void AddRecipe(Recipe recipe);
         bool UpdateRecipe(string id, Recipe recipe);
+        
         bool DeleteRecipe(string id);
     }
 }
