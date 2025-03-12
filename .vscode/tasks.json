@@ -1,0 +1,33 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build MyCookBookApp",
+            "command": "dotnet",
+            "type": "process",
+            "args": ["build", "${workspaceFolder}/MyCookBookApp/MyCookBookApp.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build MyCookBookApi",
+            "command": "dotnet",
+            "type": "process",
+            "args": ["build", "${workspaceFolder}/MyCookBookApi/MyCookBookApi.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build MyCookBookApp.Tests",
+            "command": "dotnet",
+            "type": "process",
+            "args": ["build", "${workspaceFolder}/MyCookBookApp.Tests/MyCookBookApp.Tests.csproj"],
+            "problemMatcher": "$msCompile"
+        },
+        {
+            "label": "build MyCookBookApi.Tests",
+            "command": "dotnet",
+            "type": "process",
+            "args": ["build", "${workspaceFolder}/MyCookBookApi.Tests/MyCookBookApi.Tests.csproj"],
+            "problemMatcher": "$msCompile"
+        }
+    ]
+}

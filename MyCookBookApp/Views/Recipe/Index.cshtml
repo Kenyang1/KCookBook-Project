@@ -1,0 +1,41 @@
+@{
+    ViewData["Title"] = "Recipes";
+}
+
+<div class="container mt-4">
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <h2 class="mb-0">Recipes</h2>
+        <button id="addRecipeBtn" class="btn btn-primary" data-toggle="modal" data-target="#addRecipeModal">Add Recipe</button>
+    </div>
+
+    <!-- Search Bar Section -->
+    <div class="row mb-3">
+        <div class="col-md-10 position-relative">
+            <input type="text" id="searchInput" class="form-control" placeholder="Search recipes..." oninput="toggleClearButton()" onkeydown="handleEnter(event)">
+            <span id="clearSearch" class="position-absolute text-muted" style="top: 50%; right: 40px; transform: translateY(-50%); cursor: pointer; display: none; font-size: 18px;" onclick="clearSearch()">✕</span>
+        </div>
+        <div class="col-md-2">
+            <button id="searchButton" class="btn btn-success w-100" onclick="searchRecipes()">Search</button>
+        </div>
+    </div>
+
+    <!-- Recipes Container -->
+    <div class="row">
+        <div class="col-md-12" id="recipeCards">
+            <!-- Recipe cards dynamically loaded here -->
+        </div>
+    </div>
+
+    <!-- Pagination -->
+    <nav>
+        <ul class="pagination justify-content-center mt-3" id="pagination">
+            <!-- Pagination Buttons Rendered Here -->
+        </ul>
+    </nav>
+</div>
+
+<!-- Include Modals -->
+@Html.Partial("_AddRecipeModal")
+
+<!-- Ensure script is at the end for proper loading -->
+<script src="/js/recipes.js" asp-append-version="true"></script>

@@ -1,0 +1,63 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "Debug MyCookBookApp",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApp",
+            "program": "${workspaceFolder}/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MyCookBookApp",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            },
+            "sourceFileMap": {
+                "/Views": "${workspaceFolder}/MyCookBookApp/Views"
+            }
+        },
+        {
+            "name": "Debug MyCookBookApi",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApi",
+            "program": "${workspaceFolder}/MyCookBookApi/bin/Debug/net9.0/MyCookBookApi.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MyCookBookApi",
+            "stopAtEntry": false,
+            "env": {
+                "ASPNETCORE_ENVIRONMENT": "Development"
+            }
+        },
+        {
+            "name": "Debug MyCookBookApp.Tests",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApp.Tests",
+            "program": "${workspaceFolder}/MyCookBookApp.Tests/bin/Debug/net9.0/MyCookBookApp.Tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MyCookBookApp.Tests",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Debug MyCookBookApi.Tests",
+            "type": "coreclr",
+            "request": "launch",
+            "preLaunchTask": "build MyCookBookApi.Tests",
+            "program": "${workspaceFolder}/MyCookBookApi.Tests/bin/Debug/net9.0/MyCookBookApi.Tests.dll",
+            "args": [],
+            "cwd": "${workspaceFolder}/MyCookBookApi.Tests",
+            "stopAtEntry": false
+        },
+        {
+            "name": "Launch Chrome with MyCookBookApp",
+            "type": "chrome",
+            "request": "launch",
+            "url": "http://localhost:5077",
+            "webRoot": "${workspaceFolder}/MyCookBookApp/wwwroot",
+            "sourceMaps": true,
+            "breakOnLoad": true
+        }        
+    ]
+}

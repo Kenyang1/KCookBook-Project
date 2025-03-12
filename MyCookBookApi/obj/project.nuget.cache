@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "dmhB+0cne6w=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\MyCookBookApi.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kenya\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\kenya\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

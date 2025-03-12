@@ -1,0 +1,98 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
+
+/* Related to MyCookBook Project */
+
+/* Increase font size and make dropdown text white */
+.custom-dropdown {
+  font-size: 1.1rem;
+  color: white !important;
+  background-color: #007bff !important; /* Bootstrap primary color */
+  text-align: left;
+  padding-left: 12px;
+}
+
+/* Align dropdown arrow to the right */
+.custom-dropdown::after {
+  position: absolute;
+  right: 10px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Customize dropdown menu items */
+.custom-dropdown-menu .dropdown-item {
+  font-size: 1.1rem; /* Increase dropdown item font */
+}
+
+/* Adjust small text (Italic and Right-Aligned) */
+.form-text.text-muted.text-end {
+  font-size: 0.85rem;
+}
+
+/* Neutral dropdown button */
+.custom-dropdown {
+  font-size: 1rem;
+  background-color: #ffffff !important; /* White background */
+  color: #333 !important; /* Dark text for readability */
+  border: 1px solid #ced4da; /* Subtle gray border */
+  text-align: left;
+  padding: 8px 12px;
+  box-shadow: none; /* Removes strong box-shadow */
+}
+
+/* Hover effect: Soft light gray */
+.custom-dropdown:hover,
+.custom-dropdown:focus {
+  background-color: #f8f9fa !important;
+  color: #333 !important;
+}
+
+/* Keep dropdown arrow aligned to the right */
+.custom-dropdown::after {
+  position: absolute;
+  right: 12px;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+/* Dropdown menu styling */
+.custom-dropdown-menu {
+  font-size: 1rem;
+  border-radius: 5px;
+}
+
+/* Active dropdown item */
+.custom-dropdown-menu .dropdown-item.active {
+  background-color: #e2e6ea !important; /* Softer blue-gray */
+  color: #333 !important;
+}

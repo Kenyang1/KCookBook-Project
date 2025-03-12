@@ -1,0 +1,305 @@
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.csproj.AssemblyReference.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.AssemblyInfoInputs.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.AssemblyInfo.cs
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.csproj.CoreCompileInputs.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.RazorAssemblyInfo.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.RazorAssemblyInfo.cs
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.sourcelink.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/appsettings.Development.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/appsettings.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.staticwebassets.runtime.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.staticwebassets.endpoints.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.deps.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.runtimeconfig.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.pdb
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/scopedcss/bundle/MyCookBookApp.styles.css
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/scopedcss/projectbundle/MyCookBookApp.bundle.scp.css
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/fi6u8yn9fx-61n19gt1b8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/tyx60k8rsr-xtxxf3hu2r.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/gukyj4m4cd-bqjiyaj88i.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/8k98bphbqr-c2jlpeoesf.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/zxm74mc7hf-erw9l3u2r3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/hclficvjn0-aexeepp0ev.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/e039km3wtj-d7shbmvgxk.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/q5o9swt2es-ausgxo2sd3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/1sgqr1q6n0-k8d9w2qqmf.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/ojweqcpzk9-cosvhxvwiu.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/w5qjuyj7tc-ub07r2b239.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/rnpac4eim4-fvhpjtyr6v.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/wlgki7sj9f-b7pk76d08c.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/i4ggqum688-fsbi9cje9m.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/dzgbpdew2b-rzd6atqjts.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/j4k3oj1eyp-ee0r1s7dh0.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/1d5h150vn8-dxx9fxp4il.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/lnl1fzin9k-jd9uben2k1.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/hlt2qr2l5a-khv3u5hwcm.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/q8d6iqqbzm-r4e9w2rdcm.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/kmrngslv75-lcd1t2u6c8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/8vzhmeeznh-c2oey78nd0.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/ckpfqhlgfv-tdbxkamptv.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/82jyhqntmh-j5mq2jizvt.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/nufb2jujc3-06098lyss8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/eq0v887q6w-nvvlpmu67g.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/xhn8lpmx3l-s35ty4nyc5.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/w4oewmdwsi-pj5nd1wqec.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/ybm7edxyul-46ein0sx1k.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/u3g663ps9q-v0zj4ognzu.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/wnd86eqxfe-37tfw0ft22.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/13qq98au11-hrwsygsryq.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/h3oadxvhn0-pk9g2wxc8p.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/va0cxmp50e-ft3s53vfgj.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/hpnmkvlog4-6cfz1n2cew.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/o52sak65zj-6pdc2jztkx.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/vf2gezvwfx-493y06b0oq.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/8q6g3c9c69-iovd86k7lj.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/gr4wlibp46-vr1egmr9el.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/clv0m1b2dz-kbrnm935zg.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/xky3ebmzod-jj8uyg4cgr.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/2494xv23xs-y7v9cxd14o.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/zddtrqk63v-notf2xhcfb.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/usqxwqyl5d-h1s4sie4z3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/4pj0htx6f2-63fj8s7r0e.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/78tvvdet0a-0j3bgjxly4.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/q2l1bw2ymm-47otxtyo56.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/iydze54cr6-4v8eqarkd7.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/0kbx3tqkl1-356vix0kms.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/9faa3mwweo-83jwlth58m.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/2s5x3fafk6-mrlpezrjn3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/ssehi6bo4k-lzl9nlhx6b.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/fz6bx5233y-ag7o75518u.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/v0sdxpeef3-x0q3zqp4vz.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/ti01mtk6ng-0i3buxo5is.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/7me8qys0e7-o1o13a6vjx.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/zzp3bwxlxx-ttgo8qnofa.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/glj8dtxjyc-2z0ns9nrw6.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/hqd1b2746h-muycvpuwrr.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/105li3ka2a-87fc7y1x7t.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/q8gvvehck2-mlv21k5csn.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/bl5n3gv7a1-s0q7xy7zan.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/n1vu4avcfy-s0q7xy7zan.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets.build.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets.development.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.build.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBo.D39A3E8C.Up2Date
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/refint/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.pdb
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.genruntimeconfig.cache
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/ref/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/8fzzw5f1e2-4gose8zera.gz
+/Users/prasad/DotNetProjects/MyCookBookProject/MyCookBookApp/obj/Debug/net9.0/compressed/wr2ivglgki-wegnske57d.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/appsettings.Development.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/appsettings.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.staticwebassets.endpoints.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.staticwebassets.runtime.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.deps.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.runtimeconfig.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/MyCookBookApp.pdb
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/bin/Debug/net9.0/Newtonsoft.Json.dll
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.csproj.AssemblyReference.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.AssemblyInfoInputs.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.AssemblyInfo.cs
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.csproj.CoreCompileInputs.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.MvcApplicationPartsAssemblyInfo.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.RazorAssemblyInfo.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.RazorAssemblyInfo.cs
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.sourcelink.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/scopedcss/bundle/MyCookBookApp.styles.css
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/scopedcss/projectbundle/MyCookBookApp.bundle.scp.css
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/8fzzw5f1e2-4gose8zera.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/fi6u8yn9fx-61n19gt1b8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/wr2ivglgki-wegnske57d.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/tyx60k8rsr-xtxxf3hu2r.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/gukyj4m4cd-bqjiyaj88i.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/8k98bphbqr-c2jlpeoesf.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/zxm74mc7hf-erw9l3u2r3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/hclficvjn0-aexeepp0ev.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/e039km3wtj-d7shbmvgxk.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/q5o9swt2es-ausgxo2sd3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/1sgqr1q6n0-k8d9w2qqmf.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/ojweqcpzk9-cosvhxvwiu.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/w5qjuyj7tc-ub07r2b239.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/rnpac4eim4-fvhpjtyr6v.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/wlgki7sj9f-b7pk76d08c.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/i4ggqum688-fsbi9cje9m.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/dzgbpdew2b-rzd6atqjts.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/j4k3oj1eyp-ee0r1s7dh0.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/1d5h150vn8-dxx9fxp4il.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/lnl1fzin9k-jd9uben2k1.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/hlt2qr2l5a-khv3u5hwcm.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/q8d6iqqbzm-r4e9w2rdcm.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/kmrngslv75-lcd1t2u6c8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/8vzhmeeznh-c2oey78nd0.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/ckpfqhlgfv-tdbxkamptv.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/82jyhqntmh-j5mq2jizvt.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/nufb2jujc3-06098lyss8.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/eq0v887q6w-nvvlpmu67g.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/xhn8lpmx3l-s35ty4nyc5.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/w4oewmdwsi-pj5nd1wqec.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/ybm7edxyul-46ein0sx1k.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/u3g663ps9q-v0zj4ognzu.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/wnd86eqxfe-37tfw0ft22.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/13qq98au11-hrwsygsryq.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/h3oadxvhn0-pk9g2wxc8p.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/va0cxmp50e-ft3s53vfgj.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/hpnmkvlog4-6cfz1n2cew.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/o52sak65zj-6pdc2jztkx.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/vf2gezvwfx-493y06b0oq.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/8q6g3c9c69-iovd86k7lj.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/gr4wlibp46-vr1egmr9el.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/clv0m1b2dz-kbrnm935zg.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/xky3ebmzod-jj8uyg4cgr.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/2494xv23xs-y7v9cxd14o.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/zddtrqk63v-notf2xhcfb.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/usqxwqyl5d-h1s4sie4z3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/4pj0htx6f2-63fj8s7r0e.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/78tvvdet0a-0j3bgjxly4.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/q2l1bw2ymm-47otxtyo56.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/iydze54cr6-4v8eqarkd7.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/0kbx3tqkl1-356vix0kms.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/9faa3mwweo-83jwlth58m.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/2s5x3fafk6-mrlpezrjn3.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/ssehi6bo4k-lzl9nlhx6b.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/fz6bx5233y-ag7o75518u.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/v0sdxpeef3-x0q3zqp4vz.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/ti01mtk6ng-0i3buxo5is.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/7me8qys0e7-o1o13a6vjx.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/zzp3bwxlxx-ttgo8qnofa.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/glj8dtxjyc-2z0ns9nrw6.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/hqd1b2746h-muycvpuwrr.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/105li3ka2a-87fc7y1x7t.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/q8gvvehck2-mlv21k5csn.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/bl5n3gv7a1-s0q7xy7zan.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/compressed/n1vu4avcfy-s0q7xy7zan.gz
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets.build.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets.development.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssets.props
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.build.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.buildMultiTargeting.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets/msbuild.buildTransitive.MyCookBookApp.props
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/staticwebassets.pack.json
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBo.D39A3E8C.Up2Date
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/refint/MyCookBookApp.dll
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.pdb
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/MyCookBookApp.genruntimeconfig.cache
+/Users/prasad/DotNetProjects/MyCookBookProject A4 Add Recipe/MyCookBookApp/obj/Debug/net9.0/ref/MyCookBookApp.dll
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\appsettings.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.staticwebassets.runtime.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.staticwebassets.endpoints.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.exe
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.deps.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.runtimeconfig.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.dll
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\MyCookBookApp.pdb
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\bin\Debug\net9.0\Newtonsoft.Json.dll
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.csproj.AssemblyReference.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.AssemblyInfoInputs.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.AssemblyInfo.cs
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.csproj.CoreCompileInputs.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.RazorAssemblyInfo.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.RazorAssemblyInfo.cs
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\scopedcss\bundle\MyCookBookApp.styles.css
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\scopedcss\projectbundle\MyCookBookApp.bundle.scp.css
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8fzzw5f1e2-4gose8zera.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\fi6u8yn9fx-61n19gt1b8.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\wr2ivglgki-wegnske57d.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\tyx60k8rsr-xtxxf3hu2r.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\gukyj4m4cd-bqjiyaj88i.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8k98bphbqr-c2jlpeoesf.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\zxm74mc7hf-erw9l3u2r3.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\hclficvjn0-aexeepp0ev.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\e039km3wtj-d7shbmvgxk.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\q5o9swt2es-ausgxo2sd3.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\1sgqr1q6n0-k8d9w2qqmf.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\ojweqcpzk9-cosvhxvwiu.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\w5qjuyj7tc-ub07r2b239.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\rnpac4eim4-fvhpjtyr6v.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\wlgki7sj9f-b7pk76d08c.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\i4ggqum688-fsbi9cje9m.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\dzgbpdew2b-rzd6atqjts.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\j4k3oj1eyp-ee0r1s7dh0.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\1d5h150vn8-dxx9fxp4il.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\lnl1fzin9k-jd9uben2k1.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\hlt2qr2l5a-khv3u5hwcm.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\q8d6iqqbzm-r4e9w2rdcm.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\kmrngslv75-lcd1t2u6c8.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8vzhmeeznh-c2oey78nd0.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\ckpfqhlgfv-tdbxkamptv.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\82jyhqntmh-j5mq2jizvt.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\nufb2jujc3-06098lyss8.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\eq0v887q6w-nvvlpmu67g.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\xhn8lpmx3l-s35ty4nyc5.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\w4oewmdwsi-pj5nd1wqec.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\ybm7edxyul-46ein0sx1k.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\u3g663ps9q-v0zj4ognzu.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\wnd86eqxfe-37tfw0ft22.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\13qq98au11-hrwsygsryq.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\h3oadxvhn0-pk9g2wxc8p.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\va0cxmp50e-ft3s53vfgj.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\hpnmkvlog4-6cfz1n2cew.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\o52sak65zj-6pdc2jztkx.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\vf2gezvwfx-493y06b0oq.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8q6g3c9c69-iovd86k7lj.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\gr4wlibp46-vr1egmr9el.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\clv0m1b2dz-kbrnm935zg.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\xky3ebmzod-jj8uyg4cgr.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\2494xv23xs-y7v9cxd14o.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\zddtrqk63v-notf2xhcfb.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\usqxwqyl5d-h1s4sie4z3.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\4pj0htx6f2-63fj8s7r0e.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\78tvvdet0a-0j3bgjxly4.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\q2l1bw2ymm-47otxtyo56.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\iydze54cr6-4v8eqarkd7.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\0kbx3tqkl1-356vix0kms.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\9faa3mwweo-83jwlth58m.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\2s5x3fafk6-mrlpezrjn3.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\ssehi6bo4k-lzl9nlhx6b.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\fz6bx5233y-ag7o75518u.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\v0sdxpeef3-x0q3zqp4vz.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\ti01mtk6ng-0i3buxo5is.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\7me8qys0e7-o1o13a6vjx.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\zzp3bwxlxx-ttgo8qnofa.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\glj8dtxjyc-2z0ns9nrw6.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\hqd1b2746h-muycvpuwrr.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\105li3ka2a-87fc7y1x7t.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\q8gvvehck2-mlv21k5csn.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\bl5n3gv7a1-a4ofp94fqj.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\n1vu4avcfy-a4ofp94fqj.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets\msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets\msbuild.MyCookBookApp.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets\msbuild.build.MyCookBookApp.props
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.MyCookBookApp.props
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.MyCookBookApp.props
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBo.D39A3E8C.Up2Date
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.dll
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\refint\MyCookBookApp.dll
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.pdb
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.genruntimeconfig.cache
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\ref\MyCookBookApp.dll
