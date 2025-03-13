@@ -1,0 +1,91 @@
+<div class="modal fade" id="editRecipeModal" tabindex="-1" aria-labelledby="editRecipeModalLabel" aria-hidden="true">
+    <div class="modal-dialog modal-lg">
+        <div class="modal-content">
+
+            <!-- Modal Header -->
+            <div class="modal-header bg-warning text-dark">
+                <h5 class="modal-title" id="editRecipeModalLabel">Edit Recipe</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+
+            <!-- Modal Body -->
+            <div class="modal-body">
+                <form id="editRecipeForm">
+                    <input type="hidden" id="editRecipeId">
+
+                    <div class="row g-3">
+                        <!-- Left Column -->
+                        <div class="col-md-6 d-flex flex-column">
+                            <div class="p-3 border rounded flex-fill">
+                                <div class="mb-3">
+                                    <label for="editRecipeName" class="form-label fw-bold">Recipe Name</label>
+                                    <input type="text" class="form-control" id="editRecipeName" required>
+                                </div>
+                                <div class="mb-3">
+                                    <label for="editTagLine" class="form-label fw-bold">Tag Line</label>
+                                    <input type="text" class="form-control" id="editTagLine">
+                                </div>
+                                <div class="mb-3">
+                                    <label for="editSummary" class="form-label fw-bold">Summary</label>
+                                    <textarea class="form-control" id="editSummary" rows="3"></textarea>
+                                </div>
+                            </div>
+                        </div>
+
+                        <!-- Right Column -->
+                        <div class="col-md-6 d-flex flex-column">
+                            <div class="p-3 border rounded flex-fill">
+                                <!-- Categories Dropdown -->
+                                <div class="mb-3">
+                                    <label class="form-label fw-bold">Categories</label>
+                                    <div class="dropdown">
+                                        <button class="btn btn-light text-dark dropdown-toggle w-100 text-start custom-dropdown" 
+                                                type="button" id="editCategoryDropdown" data-bs-toggle="dropdown" aria-expanded="false">
+                                            Select Categories
+                                        </button>
+                                        <ul class="dropdown-menu w-100 overflow-auto custom-dropdown-menu" id="editCategoryList" style="max-height: 200px;">
+                                            <li><a class="dropdown-item" href="#" data-value="0">Breakfast</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="1">Lunch</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="2">Dinner</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="3">Dessert</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="4">Snack</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="5">Vegan</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="6">Vegetarian</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="7">GlutenFree</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="8">Keto</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="9">LowCarb</a></li>
+                                            <li><a class="dropdown-item" href="#" data-value="10">HighProtein</a></li>
+                                        </ul>
+                                    </div>
+                                    <input type="hidden" id="editCategories" value="">
+                                    <small class="form-text text-muted text-end fst-italic">Click to select multiple categories.</small>
+                                </div>
+
+                                <!-- Ingredients Section -->
+                                <div class="mb-3">
+                                    <label for="editIngredients" class="form-label fw-bold">Ingredients (comma-separated)</label>
+                                    <textarea class="form-control" id="editIngredients" rows="6"></textarea>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+
+                    <!-- Full Width Section for Instructions -->
+                    <div class="p-3 border rounded mt-3">
+                        <div class="mb-3">
+                            <label for="editInstructions" class="form-label fw-bold">Instructions</label>
+                            <textarea class="form-control" id="editInstructions" rows="5"></textarea>
+                        </div>
+                    </div>
+                </form>
+            </div>
+
+            <!-- Modal Footer -->
+            <div class="modal-footer">
+                <button type="button" class="btn btn-outline-secondary" data-bs-dismiss="modal">Close</button>
+                <button type="button" class="btn btn-warning" id="updateRecipe">Update Recipe</button>
+            </div>
+
+        </div>
+    </div>
+</div>

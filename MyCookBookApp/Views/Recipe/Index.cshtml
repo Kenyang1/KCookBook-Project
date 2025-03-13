@@ -2,6 +2,9 @@
     ViewData["Title"] = "Recipes";
 }
 
+<input type="hidden" id="apiBaseUrl" value="@Url.Content("~/api")" />
+
+
 <div class="container mt-4">
     <div class="d-flex justify-content-between align-items-center mb-3">
         <h2 class="mb-0">Recipes</h2>
@@ -22,6 +25,7 @@
     <!-- Recipes Container -->
     <div class="row">
         <div class="col-md-12" id="recipeCards">
+            <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
             <!-- Recipe cards dynamically loaded here -->
         </div>
     </div>
@@ -36,6 +40,8 @@
 
 <!-- Include Modals -->
 @Html.Partial("_AddRecipeModal")
+@Html.Partial("_EditRecipeModal")
+
 
 <!-- Ensure script is at the end for proper loading -->
 <script src="/js/recipes.js" asp-append-version="true"></script>

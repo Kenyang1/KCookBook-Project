@@ -1,6 +1,7 @@
 document.addEventListener("DOMContentLoaded", function () {
     const BASE_URL = `${window.location.origin}/Recipe`;  // Dynamically set base URL
     let selectedCategories = [];
+    let selectedEditCategories = [];
 
     // Define a mapping of category numbers to their text values
     const categoryMapping = {
@@ -44,6 +45,124 @@ document.addEventListener("DOMContentLoaded", function () {
             console.log("Selected Categories (Numeric):", selectedCategories);
         });
     });
+
+    // Handle category selection for edit modal
+    document.querySelectorAll("#editCategoryList .dropdown-item").forEach(item => {
+        item.addEventListener("click", function (event) {
+            event.preventDefault();
+            let categoryValue = parseInt(this.getAttribute("data-value"), 10);
+            let categoryText = this.innerText;
+
+            if (selectedEditCategories.includes(categoryValue)) {
+                // Remove if already selected
+                selectedEditCategories = selectedEditCategories.filter(c => c !== categoryValue);
+            } else {
+                // Add if not selected
+                selectedEditCategories.push(categoryValue);
+            }
+
+            // Update dropdown button text
+            document.getElementById("editCategoryDropdown").innerText =
+                selectedEditCategories.length > 0
+                    ? selectedEditCategories.map(id => document.querySelector(`#editCategoryList [data-value="${id}"]`).innerText).join(", ")
+                    : "Select Categories";
+
+            // Update hidden input with selected categories
+            document.getElementById("editCategories").value = JSON.stringify(selectedEditCategories);
+        });
+    });
+
+        // Edit Recipe - Fetch Recipe Details and Show Modal
+    window.editRecipe = function (recipeId) {
+        fetch(`${BASE_URL}/${recipeId}`)
+            .then(response => response.json())
+            .then(recipe => {
+                if (!recipe) {
+                    console.error("Recipe not found");
+                    return;
+                }
+
+                console.log("Loaded Recipe Object:", JSON.stringify(recipe, null, 2)); // Debugging
+
+                // Assign values to modal fields
+                document.getElementById("editRecipeId").value = recipe.recipeId;
+                document.getElementById("editRecipeName").value = recipe.name;
+                document.getElementById("editSummary").value = recipe.summary || "";
+                document.getElementById("editIngredients").value = Array.isArray(recipe.ingredients) ? recipe.ingredients.join(", ") : "";
+                document.getElementById("editInstructions").value = Array.isArray(recipe.instructions) ? recipe.instructions.join("\n") : "";
+
+                // Handle categories
+                const selectedCategories = Array.isArray(recipe.categories) ? recipe.categories : [];
+                selectedEditCategories = selectedCategories; // Store categories
+                let selectedCategoryNames = selectedCategories.map(catId => document.querySelector(`#editCategoryList [data-value="${catId}"]`)?.innerText || "Unknown");
+
+                console.log("Categories Received:", selectedCategories); // Debugging
+
+                // Update dropdown button text
+                document.getElementById("editCategoryDropdown").innerText =
+                    selectedCategoryNames.length > 0 ? selectedCategoryNames.join(", ") : "Select Categories";
+
+                // Store selected categories in hidden input
+                document.getElementById("editCategories").value = JSON.stringify(selectedCategories);
+
+                // Show the modal
+                var editRecipeModal = new bootstrap.Modal(document.getElementById('editRecipeModal'));
+                editRecipeModal.show();
+            })
+            .catch(error => console.error("Error fetching recipe:", error));
+    };
+
+        // Update Recipe function
+    window.updateRecipe = function () {
+        console.log("Update button clicked!");
+
+        let recipe = {
+            recipeId: document.getElementById("editRecipeId").value.trim(),
+            name: document.getElementById("editRecipeName").value.trim(),
+            summary: document.getElementById("editSummary").value.trim(),
+            ingredients: document.getElementById("editIngredients").value.split(",").map(i => i.trim()),
+            instructions: document.getElementById("editInstructions").value.split("\n").map(i => i.trim()),
+            categories: JSON.parse(document.getElementById("editCategories").value || "[]"),
+            media: [] // Placeholder for future media uploads
+        };
+
+        console.log("Updated Recipe Object:", JSON.stringify(recipe, null, 2));
+
+        // Ensure the API URL is correctly formatted
+        const recipeId = recipe.recipeId;
+        if (!recipeId) {
+            console.error("No recipe ID found!");
+            alert("Recipe ID is missing. Cannot update.");
+            return;
+        }
+
+        fetch(`${BASE_URL}/Edit/${recipeId}`, {
+            method: "PUT",
+            headers: { "Content-Type": "application/json" },
+            body: JSON.stringify(recipe)
+        })
+            .then(response => {
+                console.log("Response Status:", response.status);
+                if (!response.ok) {
+                    return response.text().then(text => { throw new Error(`Error ${response.status}: ${text}`); });
+                }
+                return response.json();
+            })
+            .then(data => {
+                console.log("Recipe updated successfully:", data);
+                alert("Recipe updated successfully!");
+
+                // Close the modal and refresh the page
+                let modal = bootstrap.Modal.getInstance(document.getElementById('editRecipeModal'));
+                modal.hide();
+                setTimeout(() => { location.reload(); }, 500);
+            })
+            .catch(error => {
+                console.error("Error updating recipe:", error);
+                alert("Failed to update recipe: " + error.message);
+            });
+    };
+
     
     // Open the Add Recipe Modal
     document.getElementById("addRecipeBtn")?.addEventListener("click", function () {
@@ -172,6 +291,9 @@ document.addEventListener("DOMContentLoaded", function () {
                             <div>
                                 <h5 class="card-title mb-0">${recipe.name}</h5>
                                 <p class="text-muted mb-2">${recipe.tagLine || ""}</p>
+                            </div>
+                            <div>
+            <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
                             </div>
                         </div>
                         <div class="row mt-2">
