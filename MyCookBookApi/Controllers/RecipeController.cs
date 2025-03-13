@@ -49,6 +49,18 @@ namespace MyCookBookApi.Controllers
             return Ok(recipes);
         }
 
+        [HttpDelete("{id}")]
+        public IActionResult DeleteRecipe(string id) 
+        {
+            var deleted = _recipeService.DeleteRecipe(id);
+            if (!deleted) 
+            {
+                return NotFound(); // If the recipe does not exist
+            }
+            return NoContent(); // Successfully deleted
+        }
+
+
         [HttpPut("{id}")]
         public IActionResult UpdateRecipe(string id, [FromBody] Recipe recipe) 
         {

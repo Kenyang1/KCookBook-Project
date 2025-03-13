@@ -25,5 +25,6 @@ public bool UpdateRecipe(string id, Recipe recipe) =>
     _recipeRepository.UpdateRecipe(id, recipe);
 
         public bool DeleteRecipe(string id) => _recipeRepository.DeleteRecipe(id);
+
     }
 }
