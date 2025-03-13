@@ -76,6 +76,14 @@ namespace MyCookBookApp.Services
             return response.IsSuccessStatusCode;
         }
 
+        public async Task<bool> DeleteRecipeAsync(string id)
+        {
+            if (string.IsNullOrWhiteSpace(id))
+            return false;
+        var response = await _httpClient.DeleteAsync($"{_baseUrl}/recipe/{id}");
+        return response.IsSuccessStatusCode;
+
+        }
 
 
     }

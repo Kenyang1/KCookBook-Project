@@ -226,6 +226,7 @@ C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\scopedcss\projectbundle\MyCookBookApp.bundle.scp.css
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8fzzw5f1e2-4gose8zera.gz
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\fi6u8yn9fx-61n19gt1b8.gz
+C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\wr2ivglgki-wfrjfk9z6y.gz
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\tyx60k8rsr-xtxxf3hu2r.gz
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\gukyj4m4cd-bqjiyaj88i.gz
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\8k98bphbqr-c2jlpeoesf.gz
@@ -303,4 +304,3 @@ C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.pdb
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\MyCookBookApp.genruntimeconfig.cache
 C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\ref\MyCookBookApp.dll
-C:\Users\kenya\OneDrive\Desktop\VSCode Projects\KCookBook Project\mycookbookapp\obj\Debug\net9.0\compressed\wr2ivglgki-9ik60sjill.gz

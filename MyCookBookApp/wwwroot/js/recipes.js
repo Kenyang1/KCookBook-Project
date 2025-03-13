@@ -194,6 +194,24 @@ document.addEventListener("DOMContentLoaded", function () {
         $('#addRecipeModal').modal('show');
     });
 
+    // Delete Recipe
+ window.deleteRecipe = function (recipeId) {
+    if (!confirm("Are you sure you want to delete this recipe?")) return;
+    fetch(`${BASE_URL}/Delete/${recipeId}`, {
+        method: "DELETE"
+    })
+        .then(response => response.json())
+        .then(data => {
+            if (data.success) {
+                fetchRecipes();
+            } else {
+            alert("Failed to delete recipe: " + data.message);
+        }
+    })
+.catch(error => console.error("Error deleting recipe:", error)); };
+
+
+
     // Modify Save Recipe function to include selected numeric categories
     document.getElementById("saveRecipe").addEventListener("click", function (event) {
         event.preventDefault();
@@ -318,7 +336,8 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
                             <div>
             <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
-
+    <button class="btn btn-danger btn-sm"
+    onclick="deleteRecipe('${recipe.recipeId}')">Delete</button>
                             </div>
                         </div>
                         <div class="row mt-2">
