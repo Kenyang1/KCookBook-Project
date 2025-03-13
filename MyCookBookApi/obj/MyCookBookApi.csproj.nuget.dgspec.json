@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\MyCookBookApi\\MyCookBookApi.csproj": {}
+    "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\MyCookBookApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\MyCookBookApi\\MyCookBookApi.csproj": {
+    "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\MyCookBookApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\MyCookBookApi\\MyCookBookApi.csproj",
+        "projectUniqueName": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\MyCookBookApi.csproj",
         "projectName": "MyCookBookApi",
-        "projectPath": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\MyCookBookApi\\MyCookBookApi.csproj",
+        "projectPath": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\MyCookBookApi.csproj",
         "packagesPath": "C:\\Users\\kenya\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\MyCookBookApi\\obj\\",
+        "outputPath": "C:\\Users\\kenya\\OneDrive\\Desktop\\VSCode Projects\\KCookBook Project\\mycookbookapi\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

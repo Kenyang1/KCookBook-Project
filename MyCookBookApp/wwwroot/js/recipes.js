@@ -72,6 +72,28 @@ document.addEventListener("DOMContentLoaded", function () {
         });
     });
 
+    // Handle Update Recipe event
+    document.getElementById("updateRecipe").addEventListener("click", function (event) {
+            event.preventDefault(); // Prevent form from reloading the page
+            updateRecipe(); // Call the update function
+    });
+
+    // Initialize edit category dropdown text
+        document.getElementById("editCategoryDropdown").innerText = 
+        selectedCategories.length > 0 
+            ? selectedCategories.map(id => 
+                document.querySelector(`#editCategoryList [data-value="${id}"]`).innerText
+            ).join(", ") 
+            : "Select Categories";
+
+        // Store selected categories in hidden input field
+        document.getElementById("editCategories").value = JSON.stringify(selectedCategories);
+
+
+
+
+
+
         // Edit Recipe - Fetch Recipe Details and Show Modal
     window.editRecipe = function (recipeId) {
         fetch(`${BASE_URL}/${recipeId}`)
@@ -87,6 +109,7 @@ document.addEventListener("DOMContentLoaded", function () {
                 // Assign values to modal fields
                 document.getElementById("editRecipeId").value = recipe.recipeId;
                 document.getElementById("editRecipeName").value = recipe.name;
+                document.getElementById("editTagLine").value = recipe.tagLine || ""; 
                 document.getElementById("editSummary").value = recipe.summary || "";
                 document.getElementById("editIngredients").value = Array.isArray(recipe.ingredients) ? recipe.ingredients.join(", ") : "";
                 document.getElementById("editInstructions").value = Array.isArray(recipe.instructions) ? recipe.instructions.join("\n") : "";
@@ -120,6 +143,7 @@ document.addEventListener("DOMContentLoaded", function () {
             recipeId: document.getElementById("editRecipeId").value.trim(),
             name: document.getElementById("editRecipeName").value.trim(),
             summary: document.getElementById("editSummary").value.trim(),
+            tagLine: document.getElementById("editTagLine").value.trim(), 
             ingredients: document.getElementById("editIngredients").value.split(",").map(i => i.trim()),
             instructions: document.getElementById("editInstructions").value.split("\n").map(i => i.trim()),
             categories: JSON.parse(document.getElementById("editCategories").value || "[]"),
@@ -294,6 +318,7 @@ document.addEventListener("DOMContentLoaded", function () {
                             </div>
                             <div>
             <button class="btn btn-warning btn-sm" onclick="editRecipe('${recipe.recipeId}')">Edit</button>
+
                             </div>
                         </div>
                         <div class="row mt-2">

@@ -24,17 +24,17 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"5430"},{"Name":"Content-Type","Value":"image/x-icon"},{"Name":"ETag","Value":"\u0022Jtxf9L\u002B5ITKRc1gIRl4VbUpGkRNfOBXjYTdhJD4facM=\u0022"},{"Name":"Last-Modified","Value":"Wed, 12 Mar 2025 22:06:38 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/MyCookBookApp/js/recipes.9ik60sjill.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\recipes.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"9ik60sjill"},{"Name":"integrity","Value":"sha256-r7KJQMpqVzSwhyhYW/I5G4CKUie\u002BPOwSQvBJ6wvjcqI="},{"Name":"label","Value":"_content/MyCookBookApp/js/recipes.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14685"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r7KJQMpqVzSwhyhYW/I5G4CKUie\u002BPOwSQvBJ6wvjcqI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 16:36:32 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyCookBookApp/js/recipes.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\recipes.js'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-ZuDVkjAxh/2QwRbIWl\u002B94yfQu1zPH\u002BMvQJszY4jF\u002B74="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14008"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZuDVkjAxh/2QwRbIWl\u002B94yfQu1zPH\u002BMvQJszY4jF\u002B74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 14:38:30 GMT"}]]]></ResponseHeaders>
-    </StaticWebAssetEndpoint>
-    <StaticWebAssetEndpoint Include="_content/MyCookBookApp/js/recipes.m1ipga0e0z.js">
-      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\recipes.js'))</AssetFile>
-      <Selectors><![CDATA[[]]]></Selectors>
-      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"m1ipga0e0z"},{"Name":"integrity","Value":"sha256-ZuDVkjAxh/2QwRbIWl\u002B94yfQu1zPH\u002BMvQJszY4jF\u002B74="},{"Name":"label","Value":"_content/MyCookBookApp/js/recipes.js"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"14008"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022ZuDVkjAxh/2QwRbIWl\u002B94yfQu1zPH\u002BMvQJszY4jF\u002B74=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 14:38:30 GMT"}]]]></ResponseHeaders>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-r7KJQMpqVzSwhyhYW/I5G4CKUie\u002BPOwSQvBJ6wvjcqI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"14685"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022r7KJQMpqVzSwhyhYW/I5G4CKUie\u002BPOwSQvBJ6wvjcqI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 16:36:32 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyCookBookApp/js/site.js">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\site.js'))</AssetFile>
@@ -772,13 +772,13 @@
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyCookBookApp.a4ofp94fqj.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"a4ofp94fqj"},{"Name":"integrity","Value":"sha256-JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI="},{"Name":"label","Value":"_content/MyCookBookApp/MyCookBookApp.bundle.scp.css"}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 14:29:02 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 15:42:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
     <StaticWebAssetEndpoint Include="_content/MyCookBookApp/MyCookBookApp.bundle.scp.css">
       <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\MyCookBookApp.a4ofp94fqj.bundle.scp.css'))</AssetFile>
       <Selectors><![CDATA[[]]]></Selectors>
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI="}]]]></EndpointProperties>
-      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 14:29:02 GMT"}]]]></ResponseHeaders>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1131"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022JlssJ58jjK2X7bZEqb4QHNYErRN0q4pDFq1YWy43DVI=\u0022"},{"Name":"Last-Modified","Value":"Thu, 13 Mar 2025 15:42:12 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>
